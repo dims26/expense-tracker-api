@@ -9,7 +9,7 @@ import org.springframework.web.cors.CorsConfiguration;
 import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 import org.springframework.web.filter.CorsFilter;
 
-@SpringBootApplication//Convenience annotation - Indicates configuration class, enables auto-configuration and component scanning
+@SpringBootApplication//Convenience annotation - Indicates configuration class, enables auto-configuration and component scanning.
 public class ExpenseTrackerApiApplication {
 
 	public static void main(String[] args) {
